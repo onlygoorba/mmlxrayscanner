@@ -1,0 +1,15 @@
+# Visual Studio files
+.vs/
+bin/
+obj/
+*.user
+
+# Output files (Don't upload scan results!)
+valid_proxies.txt
+good_ips.txt
+ips.txt
+
+# Executables
+xray.exe
+*.exe
+*.dll

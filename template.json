@@ -1,0 +1,17 @@
+{
+  "protocol": "vless",
+  "uuid": "0000000-0000-0000-0000-000000000000",
+  "port": 443,
+
+  "security": "tls",
+  "sni": "example.com",
+  "alpn": ["http/1.1"],
+  "fingerprint": "chrome",
+
+  "network": "ws",
+  "wsPath": "/",
+  "wsHost": "example.com",
+
+  "packetEncoding": "xudp",
+  "encryption": "none"
+}
