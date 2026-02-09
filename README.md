@@ -11,8 +11,8 @@ A multi-threaded, high-speed IP scanner and latency tester for Xray/V2Ray config
 ## 🚀 Features
 
 * **Smart Sorting:** Automatically sorts valid IPs by **Lowest Ping** first.
-* **VLESS Generator:** Generates full `vless://` links ready to import into clients (v2rayNG, V2Box, etc.).
-* **Port Independence:** Scans IPs based on your config port, ignoring the source file ports.
+* **VLESS Generator:** Generates full `vless://` links .
+* **Port Independence:** Scans IPs based on your config port.
 * **Range Generator:** Built-in CIDR to IP converter (e.g., `104.16.0.0/24`).
 * **Real-time Saving:** Results are saved instantly to prevent data loss.
 * **Core Integrity:** Uses the official `xray.exe` core for accurate real-world connectivity tests.
