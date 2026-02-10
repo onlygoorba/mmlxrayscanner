@@ -4,7 +4,7 @@ A multi-threaded, high-speed IP scanner and latency tester for Xray/V2Ray config
 
 > **Developed by [mhmmd_ah1]**
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
 ![Language](https://img.shields.io/badge/language-C%23-purple)
 
@@ -58,11 +58,9 @@ Put your server details here. The scanner injects found IPs into this template.
 
 ## ⚠️ Disclaimer
 
-This tool is created for educational purposes and network analysis only. The developer (`mhmmd_ah1`) is not responsible for any misuse.
+This tool is created for educational purposes and network analysis only. The developer  is not responsible for any misuse.
 
-## 📄 License
 
-Distributed under the MIT License.
 
 
 #contact : 
